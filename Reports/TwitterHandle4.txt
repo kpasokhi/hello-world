@@ -1,0 +1,13 @@
+TwitterHandle4 Airdrop
+-------------------
+Announcement Link:
+https://link_to_announcment.xyz/airdrop
+-------------------
+Eligible wallet List:
+https://link_to_list.xyz/list.json
+-------------------
+Description:
+Airdrop is ready to claim on 1/2/2024
+-------------------
+Reported By:
+0x0000000000000000000000000000000000000000

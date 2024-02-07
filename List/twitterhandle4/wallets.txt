@@ -1,0 +1,2 @@
+wallet, token
+0xbd9f70e2b1d741b4925c36a0315a5a9ac26be776, 250
